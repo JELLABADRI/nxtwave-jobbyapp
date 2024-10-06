@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+}
+.spb {
+  justify-content: space-between;
+}
+.sim {
+  margin: 2px;
+  flex-wrap: wrap;
+}
